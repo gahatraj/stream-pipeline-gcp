@@ -1,0 +1,6 @@
+key.json
+infra/.terraform/
+infra/.terraform.*
+infra/terraform.tfstate
+infra/terraform.tfstate.backup
+.idea/
